@@ -35,7 +35,7 @@ const [showAddressWarning, setShowAddressWarning] = useState(false)
 
         <div className="checkout-card">
 
-          {/* HEADER */}
+         
           <div className="checkout-header">
             <h1>Final Checkout</h1>
 
@@ -47,10 +47,9 @@ const [showAddressWarning, setShowAddressWarning] = useState(false)
             </button>
           </div>
 
-          {/* BODY */}
           <div className="checkout-body">
 
-            {/* DELIVERY */}
+           
             <div className="checkout-section">
               <label>DELIVER TO</label>
 
@@ -109,7 +108,7 @@ const [showAddressWarning, setShowAddressWarning] = useState(false)
 
            
 
-            {/* TOTAL */}
+          
             <div className="checkout-total">
 
               <div className="final-total">
