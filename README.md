@@ -119,20 +119,20 @@ The layout, navigation, food cards, cart, and checkout experience adapt to diffe
 
 ## 📸 Screenshots
 
-Screenshots can be added here to showcase the main sections of the application.
-
 ### Home & Menu
 
+![Food Ordering App Homepage](food%201.jpg)
 
-
+![Food Ordering App Menu](food%202.jpg)
 
 ### Shopping Cart
 
-*Add screenshot here*
+![Food Ordering App Shopping Cart](food%203.jpg)
 
 ### Checkout
 
-*Add screenshot here*
+![Food Ordering App Checkout](food%204.png)
+
 
 ## 🔗 Links
 
