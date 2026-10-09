@@ -123,7 +123,8 @@ Screenshots can be added here to showcase the main sections of the application.
 
 ### Home & Menu
 
-*Add screenshot here*
+
+
 
 ### Shopping Cart
 
@@ -139,7 +140,7 @@ Screenshots can be added here to showcase the main sections of the application.
 https://github.com/siemg22/Food-Ordering-App
 
 **Live Demo:**
-*Add live deployment link here*
+https://foodieordering.netlify.app
 
 ## 👨‍💻 Author
 
